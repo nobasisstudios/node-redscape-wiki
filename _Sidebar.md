@@ -1,12 +1,7 @@
-<p><img src="https://camo.githubusercontent.com/17fe7c9c7a8cd0c400b1dc1e040a276f50380c25/68747470733a2f2f616e67756c61726a732e6f72672f2f696d672f416e67756c61724a532d6c617267652e706e67" alt="AngularJS" data-canonical-src="https://angularjs.org//img/AngularJS-large.png"></p>
+<p><img src="https://raw.githubusercontent.com/playfultechnology/propcontrol/master/Documentation/pc_logo.png" alt="PropControl logo"></p>
 <ul>
-<li><a href="https://github.com/angular/angular.js/wiki/Home">Home</a></li>
-<li>
-<a href="https://github.com/angular/angular.js/wiki/Contribution">Contribution</a>
-<ul>
-<li><a href="https://github.com/angular/angular.js/wiki/Contribution%3A-Contribution-Checklist">Contribution Checklist</a></li>
-<li><a href="https://github.com/angular/angular.js/wiki/Contribution%3A-Writing-AngularJS-Documentation">Writing AngularJS Documentation</a></li>
-</ul>
+<li><a href="https://github.com/playfultechnology/propcontrol/wiki">Home</a></li>
+<li><a href="https://github.com/playfultechnology/propcontrol/wiki/1.0-Installation-and-Initial-Setup">Installation</a>
 </li>
 <li>
 <a href="https://github.com/angular/angular.js/wiki/Dev-Guide">Dev Guide</a>
