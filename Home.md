@@ -1,1 +1,3 @@
-Welcome to the propcontrol wiki!
+This wiki contains "recipes" - individual snippets of code and instructions that demonstrate how to use Node-RED to automate various common escape room tasks. Recipes can be imported into a flow in your Node-RED instance by copying the JSON code and pasting it into the <a="https://nodered.org/docs/user-guide/editor/workspace/import-export">import dialog</a> box.
+
+Recipes assume that you can access a running instance of Node-RED (for instructions, see <a href="https://nodered.org/docs/getting-started/local">this written guide</a> or <a href="https://www.youtube.com/watch?v=3jm2uED1wlg">this video</a>.
