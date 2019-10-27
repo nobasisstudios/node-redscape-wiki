@@ -8,4 +8,10 @@
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Timed-Events">Timed Events</a></li>
 <li><a href="">Random Events</a></li>
 </ul>
+<li>Functions
+<ul>
+<li><a href="https://github.com/playfultechnology/propcontrol/wiki/Counter">Counter</a>
+</ul>
+
+</li>
 </ul>
