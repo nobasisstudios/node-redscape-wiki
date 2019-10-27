@@ -1,4 +1,7 @@
 This function node creates a counter that stores how many times it has been called, displays that value in the editor, and also passes the value in the "counter" property of the msg object. This can be used in subsequent nodes in the flow to change behaviour depending on the number of times a particular action has occurred.
+
+![Conter Function Node](https://github.com/playfultechnology/propcontrol/raw/master/Documentation/screenshots/function_counter.png)
+
 ```
 [
     {
