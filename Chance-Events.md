@@ -1,5 +1,5 @@
-This flow illustrates how to trigger a random event based on a given probability. 
-Each time the flow is called (e.g. via an inject node set to repeat at a fixed interval), a function node calculates a value between 0 and 100. If the value is less than the specified probability, flow continues out of the top output. If it is greater, then flow continues out of the bottom output.
+This flow illustrates how to trigger a chance event based on a given probability. 
+The desired percentage chance of the event occurring is set in the change node, expressed as a value between 0 - 100. Each time the flow is called (e.g. via an inject node set to repeat at a fixed interval), a function node calculates a random value between 0 and 100. If the value is less than the specified probability, flow continues out of the top output. If it is greater, then flow continues out of the bottom output.
 
 ![Random Chance Flow](https://github.com/playfultechnology/propcontrol/blob/master/Documentation/screenshots/flow_chance.png)
 
