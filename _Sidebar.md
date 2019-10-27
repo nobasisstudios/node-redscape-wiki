@@ -2,9 +2,9 @@
 <ul>
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki">Home</a></li>
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Game-Flow">Game Flow</a></li>
-<li><a href="">Events</a>
+<li><a href="">Flows</a>
 <ul>
-<li><a href="">Startup events</a></li>
+<li><a href="">Triggering an action on startup</a></li>
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Timed-Events">Timed Events</a></li>
 <li><a href="">Random Events</a></li>
 </ul>
