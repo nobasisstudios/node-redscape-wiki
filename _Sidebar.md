@@ -6,7 +6,7 @@
 <ul>
 <li>Game Timer</li>
 <li>Clue Delivery</li>
-<li>Triggering a Video</li>
+<li><a href="https://github.com/playfultechnology/node-redscape/wiki/Video-Display">Triggering Video Displays</a></li>
 </ul>
 <li><a href="">Flows</a>
 <ul>
