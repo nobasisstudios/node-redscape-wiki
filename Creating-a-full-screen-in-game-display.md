@@ -68,22 +68,6 @@ The uibuilder node serves up a simple webpage based on three core files - index.
 </html>
 ```
 ### index.css
-<details>
-<summary>I could use some help...</summary>
-<p>
-
-```c#
-public class Order
-{
-    public int OrderId { get; set; }
-    public int CustomerId { get; set; }
-
-    public List<int> Products { get; set; }
-}
-```
-
-</p>
-</details>  
 ```
 body {
     padding: 0;
