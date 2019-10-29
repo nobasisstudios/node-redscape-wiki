@@ -1,6 +1,7 @@
 This example illustrates how to trigger different videos to be displayed on a page created using the **ui_builder** node. This is done by dynamically injecting different values for the video "src" attribute, which can be relative links to video files saved in the _httpStatic_ folder of the local Node-RED server, or http links to videos on the web. 
 
 ## Flow
+Start by importing the following flow:
 ![Triggering different videos ](https://github.com/playfultechnology/node-redscape/blob/master/Documentation/screenshots/flow_triggered_video.png)
 
 ```
@@ -152,8 +153,9 @@ This example illustrates how to trigger different videos to be displayed on a pa
     }
 ]
 ```
-
-## index.html
+## Editing the source files
+Double-click to edit the ui builder node and replace the contents of the index.html|.css|.js files as follows:
+### index.html
 ```
 <!doctype html>
 <html lang="en">
@@ -180,7 +182,7 @@ This example illustrates how to trigger different videos to be displayed on a pa
 </body>
 </html>
 ```
-## index.css
+### index.css
 ```
 body {
     padding: 0;
@@ -201,7 +203,7 @@ body {
     height: 100%;
 }
 ```
-## index.js
+### index.js
 ```
 var app = new Vue({
     // Define the HTML element to attach the Vue object to
