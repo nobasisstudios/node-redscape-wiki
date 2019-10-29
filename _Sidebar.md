@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/playfultechnology/propcontrol/master/Documentation/pc_logo.png" alt="PropControl logo"></p>
+<p><img src="https://github.com/playfultechnology/node-redscape/blob/master/Documentation/node-redscape_logo.png" alt="Node-REDscape logo"></p>
 <ul>
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki">Home</a></li>
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Game-Flow">Game Flow</a></li>
