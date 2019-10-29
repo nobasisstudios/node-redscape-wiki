@@ -2,6 +2,12 @@
 <ul>
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki">Home</a></li>
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Game-Flow">Game Flow</a></li>
+<li><a href="https://github.com/playfultechnology/node-redscape/wiki/Creating-a-full-screen-in-game-display">In-Room Display</a></li>
+<ul>
+<li>Game Timer</li>
+<li>Clue Delivery</li>
+<li>Triggering a Video</li>
+</ul>
 <li><a href="">Flows</a>
 <ul>
 <li><a href="">Triggering an action on startup</a></li>
