@@ -25,14 +25,4 @@
       <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Counter">Counter</a></li>
     </ul>
   </li>
-  <li>Interfacing with External Devices
-    <ul>
-      <li><a href="">Arduino (Simple text via USB serial)</a></li>
-      <li><a href="">Arduino (JSON via USB serial)</a></li>
-      <li><a href="">Arduino (MQTT/JSON via ethernet)</a></li>
-      <li><a href="">Raspberry Pi (MQTT/JSON via ethernet)</a></li>
-      <li><a href="">ESP8266 (MQTT/JSON via Wi-FI)</a></li>
-      <li><a href="">ESP32 (MQTT/JSON via ethernet)</a></li>
-    </ul>
-  </li>
 </ul>
