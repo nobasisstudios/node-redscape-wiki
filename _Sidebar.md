@@ -4,7 +4,7 @@
 <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Game-Flow">Game Flow</a></li>
 <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Creating-a-full-screen-in-game-display">In-Room Display</a></li>
 <ul>
-<li><a href="https://github.com/playfultechnology/node-redscape/wiki/Game-Timer-and-Clue-Display>Game Timer and Clue Delivery Display</a></li>
+<li><a href="https://github.com/playfultechnology/node-redscape/wiki/Game-Timer-and-Clue-Display">Game Timer and Clue Delivery Display</a></li>
 <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Video-Display">Triggering Video Displays</a></li>
 </ul>
 <li><a href="">Flows</a>
