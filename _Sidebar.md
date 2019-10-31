@@ -1,16 +1,15 @@
 <p><img src="https://github.com/playfultechnology/node-redscape/blob/master/Documentation/node-redscape_logo.png" alt="Node-REDscape logo"></p>
 <ul>
   <li><a href="https://github.com/playfultechnology/propcontrol/wiki">Home</a></li>
-  <li>Gamesmaster Dashboard
-    <ul>
-      <li>Monitoring the status of a puzzle</li>
-      <li>Creating force solve and reset buttons</li>
-    </ul>
-  </li>
-  <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Creating-a-full-screen-in-game-display">In-Room Displays</a>
+  <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Creating-a-full-screen-in-game-display">Video Displays</a>
     <ul>
       <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Game-Timer-and-Clue-Display">Game Timer and Clue Delivery Display</a></li>
       <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Video-Display">Triggering Video Displays</a></li>
+    </ul>
+  </li>
+  <li>Audio
+    <ul>
+      <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Playing-Sound-Effects">Playing in-game SFX</a></li>
     </ul>
   </li>
   <li>Events
