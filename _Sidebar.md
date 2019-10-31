@@ -18,6 +18,7 @@
       <li><a href="">Triggering an action on startup</a></li>
       <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Timed-Events">Timed Events</a></li>
       <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Chance-Events">Random Events</a></li>
+      <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Logging-Events">Logging Events</a></li>
     </ul>
   </li>
   <li>Functions
