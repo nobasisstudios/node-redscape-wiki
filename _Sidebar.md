@@ -13,7 +13,7 @@
       <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Video-Display">Triggering Video Displays</a></li>
     </ul>
   </li>
-  <li>Flows
+  <li>Events
     <ul>
       <li><a href="">Triggering an action on startup</a></li>
       <li><a href="https://github.com/playfultechnology/propcontrol/wiki/Timed-Events">Timed Events</a></li>
