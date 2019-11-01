@@ -7,6 +7,10 @@ This recipe illustrates how to issue HTTP GET request every minute, which passes
 ## Wiring
 ![HTTP Request](https://github.com/playfultechnology/node-redscape/blob/master/Documentation/wiring/WemosD1Mini_DualShaftStepper_bb.jpg)
 
+## Arduino Code
+You can find the sketch and associated libraries for this example at https://github.com/playfultechnology/node-redscape/tree/master/Arduino/HTTPRequestClock.
+The code has been written to run on a WeMos D1 mini device, but can easily be adapted to run on any network-enabled Arduino-esque device.
+
 ## Flow
 ![HTTP Clock Flow](https://github.com/playfultechnology/node-redscape/blob/master/Documentation/screenshots/flow_clock_HTTP.png)
 
