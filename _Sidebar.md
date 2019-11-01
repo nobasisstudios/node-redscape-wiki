@@ -28,13 +28,7 @@
   </li>
   <li>Interfacing with External Devices
     <ul>
-      <li>Making an HTTP GET Request</li>
-      <li>Arduino (Simple text via USB serial)</li>
-      <li>Arduino (JSON via USB serial)</li>
-      <li>Arduino (MQTT/JSON via ethernet)</li>
-      <li>Raspberry Pi (MQTT/JSON via ethernet)</li>
-      <li>ESP8266 (MQTT/JSON via Wi-FI)</li>
-      <li>ESP32 (MQTT/JSON via ethernet)</li>
+      <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Making-an-HTTP-Request">Making an HTTP GET Request</a></li>
     </ul>
   </li>
 </ul>
