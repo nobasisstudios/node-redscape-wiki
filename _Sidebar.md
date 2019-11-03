@@ -11,6 +11,7 @@
   <li>Audio
     <ul>
       <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Playing-Sound-Effects">Playing in-game SFX</a></li>
+      <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Dynamic-Text-To-Speech">Dynamic text-to-speech</a></li>
     </ul>
   </li>
   <li>Events
