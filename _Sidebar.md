@@ -8,8 +8,9 @@
       <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Video-Display">Triggering Video Displays</a></li>
     </ul>
   </li>
-  <li>Audio
+  <li>Sound and Lighting
     <ul>
+      <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Controlling-DMX-Devices">DMX lighting</a></li>
       <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Playing-Sound-Effects">Playing in-game SFX</a></li>
       <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Dynamic-Text-To-Speech">Dynamic text-to-speech</a></li>
     </ul>
