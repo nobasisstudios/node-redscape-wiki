@@ -30,6 +30,7 @@
   </li>
   <li>Interfacing with External Devices
     <ul>
+<li><a href="https://github.com/playfultechnology/node-redscape/wiki/Simple-Arduino-USB-Serial-Example">Simple-Arduino-USB-Serial-Example</a></li>
       <li><a href="https://github.com/playfultechnology/node-redscape/wiki/Making-an-HTTP-Request">Making an HTTP GET Request</a></li>
     </ul>
   </li>
