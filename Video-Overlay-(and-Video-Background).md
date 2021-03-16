@@ -1,4 +1,7 @@
-This recipe demonstrates how to use Node-RED's uibuilder node to have a game timer and clue delivery text on top of a looping video background, and also have the ability to trigger a video overlay that appears on top.
+This recipe demonstrates how to use Node-RED's uibuilder node to have a game timer and clue delivery text on top of a looping video background, and also have the ability to trigger a video overlay that appears on top. The url of the video overlay is sent from Node-RED, and can be any local or network accessible file that can be embedded in an HTML <video> tag (i.e. .MP4, .MOV, .OGG)
+
+![Display with background video, game timer, and clue display](https://github.com/playfultechnology/node-redscape/blob/master/Documentation/screenshots/video_overlay_1.jpg)
+![Display after triggering video overlay from Node-RED](https://github.com/playfultechnology/node-redscape/blob/master/Documentation/screenshots/video_overlay_2.jpg)
 
 ## Flow
 
