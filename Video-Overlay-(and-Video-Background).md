@@ -5,7 +5,8 @@ This recipe demonstrates how to use Node-RED's uibuilder node to have a game tim
 
 ## Flow
 
-```[
+```
+[
     {
         "id": "7daa0e0f.94fa2",
         "type": "tab",
@@ -367,7 +368,8 @@ This recipe demonstrates how to use Node-RED's uibuilder node to have a game tim
 Then, edit the source files for the uibuilder node:
 
 ### index.html
-```<!doctype html>
+```
+<!doctype html>
 <html lang="en">
 <head>
     <!-- Put your own custom styles in here -->
@@ -429,7 +431,8 @@ var app = new Vue({
 ```
 
 ### index.css
-```body {
+```
+body {
 
     padding: 0;
     margin: 0;
